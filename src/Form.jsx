@@ -1,4 +1,3 @@
-import { RJSFSchema } from '@rjsf/utils';
 import validator from '@rjsf/validator-ajv8';
 import RJSF from '@rjsf/core';
 
